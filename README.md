@@ -5,7 +5,14 @@ Features an animated board, glowing X/O render, particle celebration effects, so
 Play in **PvP mode** or challenge the **Computer (Impossible Mode)**.
 
 ---
+## 🖼 Screenshot Preview
 
+<p align="center">
+  <img width="1546" height="1052" alt="Screenshot 2025-11-29 134500" src="https://github.com/user-attachments/assets/9ddd3d1f-96cf-49f7-9c06-13112d322434" />
+</p>
+
+
+---
 ## 🔥 Features
 
 | Feature | Description |
